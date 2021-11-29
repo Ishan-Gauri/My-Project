@@ -1,0 +1,13 @@
+  body {
+    Background-color:#DEEDF0;
+  }
+  hr{
+    border-style: dotted none none;
+    width: 25%;
+    border-color: #30475E;
+    border-width: thick;
+    }
+h1{
+background-color: Blue;
+color: Red;
+}
